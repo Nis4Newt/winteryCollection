@@ -1,7 +1,8 @@
 echocho
 
-e
-c
-h
+
+ab
+ec
+dc
 h
 o
