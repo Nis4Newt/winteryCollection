@@ -1,7 +1,5 @@
+operation cwal
 
+power overwhelming
 
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-
-
-
-lalalalalalala
+show me the money
