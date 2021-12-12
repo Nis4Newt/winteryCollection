@@ -1,4 +1,1 @@
-
-d
-ccc
-g
+learn to 가나다
