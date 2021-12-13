@@ -8,4 +8,4 @@ power overwhelming
 
 the gathering
 
-white sheep wall
+gray sheep wall
