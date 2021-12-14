@@ -5,6 +5,12 @@ Firebat 50/25
 Medic 50/25
 Ghost 25/75
 
+<Factory>
+
+Vulture 75
+Arclite Siege Tank 150/100
+Goliath 100/50
+
 <Starport>
 
 Wraith 150/100
