@@ -1,5 +1,6 @@
 <Command Center>
 SCV 50
+Scan 150
 
 <Barrack>
 
