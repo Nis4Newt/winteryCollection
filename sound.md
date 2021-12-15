@@ -1,3 +1,5 @@
+<Command Center>
+
 <Barrack>
 
 Marin 50
