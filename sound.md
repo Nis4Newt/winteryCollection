@@ -1,6 +1,9 @@
+
 <Command Center>
+
 SCV 50
-Scan 150
+Comsat Station 50/50
+Nuclear Silo 100/100
 
 <Barrack>
 
