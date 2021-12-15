@@ -1,4 +1,5 @@
 <Command Center>
+SCV 50
 
 <Barrack>
 
