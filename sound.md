@@ -1,11 +1,11 @@
 
-<Command Center>
+<Command Center 400>
 
 SCV 50
 Comsat Station 50/50
 Nuclear Silo 100/100
 
-<Barrack>
+<Barrack 150>
 
 Marin 50
 Firebat 50/25
